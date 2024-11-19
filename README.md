@@ -1,3 +1,8 @@
+# Lab description
+Tasks 1-6 completed.
+
+# Dashboard
+(https://desireebill.github.io/mlfs-book/)
 # mlfs-book
 O'Reilly book - Building Machine Learning Systems with a feature store: batch, real-time, and LLMs
 
